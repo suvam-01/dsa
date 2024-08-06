@@ -1,0 +1,2 @@
+
+    int dup=num;
