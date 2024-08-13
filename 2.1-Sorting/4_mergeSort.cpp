@@ -52,3 +52,6 @@ int main(){
 
     
 }
+
+//T.C => O(n*logn)
+//s.c => O(n)

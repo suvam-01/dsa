@@ -24,3 +24,6 @@ int main(){
     }
     cout<<endl;
 }
+
+//T.C => O(n^2)
+//s.c => O(1)

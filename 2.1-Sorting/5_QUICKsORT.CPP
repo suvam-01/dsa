@@ -46,3 +46,6 @@ int main(){
     }
     cout<<endl;
 }
+
+//T.C => O(n*logn)
+//s.c => O(1)
